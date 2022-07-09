@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @freekobie
-- 👀 I’m interested in android development
+- 👀 I’m a native android developer
 
 <!---
 freekobie/freekobie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
