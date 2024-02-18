@@ -24,9 +24,5 @@ I am always eager to explore new technologies and improve my skills. Currently, 
 
 ![Derrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=primekobie&show_icons=true&theme=dark)
 
-## 📫 Let's Connect
 
-Feel free to reach out if you have any questions, collaboration ideas, or just want to connect:
-
-- Twitter: [@primekobie](https://twitter.com/primekobie)
-
+Thank you for visiting my GitHub profile. Let's build something amazing together!
