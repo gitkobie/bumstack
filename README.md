@@ -28,5 +28,5 @@ I am always eager to explore new technologies and improve my skills. Currently, 
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect:
 
-- Twitter: [@derrick_dev](https://twitter.com/primekobie)
+- Twitter: [@primekobie](https://twitter.com/primekobie)
 
