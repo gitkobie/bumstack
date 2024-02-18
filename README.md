@@ -1,4 +1,4 @@
-# Hi there, I'm Kobie! 👋
+# Hello, I'm Kobie!
 
 I am a passionate backend developer with expertise in Golang and TypeScript. I love building scalable and efficient systems that contribute to the success of projects. With a strong foundation in software engineering, I bring a wealth of experience in crafting robust solutions for complex challenges.
 
@@ -12,7 +12,7 @@ I am a passionate backend developer with expertise in Golang and TypeScript. I l
 - **Version Control**: Git
 - **Continuous Integration & Deployment**: GitHub Actions
 
-## 🌱 Currently Learning
+## 🟩 Currently Learning
 
 I am always eager to explore new technologies and improve my skills. Currently, I am diving deeper into:
 
