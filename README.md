@@ -6,7 +6,7 @@ I am a passionate backend developer with expertise in Golang and TypeScript. I l
 
 - **Backend Development**: Golang, TypeScript
 - **Web Frameworks**: std.lib, Gin (Golang), Express.js (TypeScript)
-- **Databases**: PostgreSQL, MongoDB
+- **Databases**: PostgreSQL, Redis, MongoDB
 - **Containerization**: Docker
 - **Testing**: Go testing, Jest
 - **Version Control**: Git
