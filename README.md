@@ -1,16 +1,32 @@
-# Hi there! I'm Kobie
+# Hi there, I'm Kobie! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to code and explore the vast world of technology.
+I am a passionate backend developer with expertise in Golang and TypeScript. I love building scalable and efficient systems that contribute to the success of projects. With a strong foundation in software engineering, I bring a wealth of experience in crafting robust solutions for complex challenges.
 
-## About Me
+## 🔧 Technologies & Tools
 
-- I primarily code in **Golang** and **JavaScript**, leveraging their power for various projects.
-- I have a strong inclination for learning and experimenting with new technologies.
-- My projects often revolve around building scalable and efficient solutions.
+- **Backend Development**: Golang, TypeScript
+- **Web Frameworks**: std.lib, Gin (Golang), Express.js (TypeScript)
+- **Databases**: PostgreSQL, MongoDB
+- **Containerization**: Docker
+- **Testing**: Go testing, Jest
+- **Version Control**: Git
+- **Continuous Integration & Deployment**: GitHub Actions
 
-## Current Tech Stack
-- 🐹 **Golang**: My go-to language for building robust and performant backend systems.
-- 🌐 **JavaScript**: I love crafting dynamic and interactive user interfaces with JavaScript.
-- 📦 **Docker**: Containerization is key to ensuring smooth deployment across different environments.
-- 🚀 **Other Technologies**: I'm always exploring and incorporating new tools and frameworks.
+## 🌱 Currently Learning
+
+I am always eager to explore new technologies and improve my skills. Currently, I am diving deeper into:
+
+- Cloud Technologies: AWS, Google Cloud Platform
+- Microservices Architecture
+- Performance Optimization and Scalability
+
+## 📈 GitHub Stats
+
+![Derrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=primekobie&show_icons=true&theme=dark)
+
+## 📫 Let's Connect
+
+Feel free to reach out if you have any questions, collaboration ideas, or just want to connect:
+
+- Twitter: [@derrick_dev](https://twitter.com/primekobie)
 
