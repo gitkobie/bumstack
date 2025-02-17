@@ -4,7 +4,7 @@ Hello, I'm a software developer who enjoys building interesting applications. Ex
 
 ---
 
-I'm open to collaborations! Feel free to reach out [here](mailto:officialkdanquah@gmail.com).
+I'm open to collaborations! You can get in touch [here](mailto:officialkdanquah@gmail.com).
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notbum&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
